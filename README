@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4014
+
+Vitality makes Vim play nicely with iTerm 2 and tmux.
+
+For example: it restores the FocusGained and FocusLost autocommands when running Vim in iTerm 2, even through tmux!
+
+For more information: https://github.com/sjl/vitality.vim
